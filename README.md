@@ -1,0 +1,3 @@
+测试insforge用的一个小型项目；
+和supabase形成对照
+可以用LLM学习html
